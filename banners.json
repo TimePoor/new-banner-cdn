@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "id": "banner-1755422331477",
+      "name": "배너너",
+      "position": "header",
+      "link": "https://codepedia.kr",
+      "type": "single",
+      "active": true,
+      "startDate": "2025-08-17T18:18",
+      "endDate": "2025-08-17T22:18",
+      "createdAt": "2025-08-17T09:18:51.477Z",
+      "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/banners/1755422331070.jpg"
+    }
+  ],
+  "lastUpdated": "2025-08-17T09:18:52.650Z"
+}
