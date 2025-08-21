@@ -1,18 +1,5 @@
 [
   {
-    "id": "banner_1755803994808_whxxog6xz",
-    "name": "헤더배너테스트",
-    "position": "header",
-    "link": "https://codepedia.kr",
-    "active": true,
-    "scheduled": false,
-    "startDate": null,
-    "endDate": null,
-    "isPopup": false,
-    "createdAt": "2025-08-21T19:19:58.365Z",
-    "updatedAt": "2025-08-21T19:19:54.808Z"
-  },
-  {
     "id": "banner_1755804904512_rr3pmhw65",
     "name": "헤더배너테스트",
     "position": "header",
