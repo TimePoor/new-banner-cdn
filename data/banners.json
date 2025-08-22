@@ -1,17 +1,1 @@
-[
-  {
-    "id": "banner_1755860056967_2b4vdowgg",
-    "name": "팝업",
-    "position": "popup",
-    "link": "https://codepedia.kr",
-    "active": true,
-    "scheduled": true,
-    "startDate": "",
-    "endDate": "",
-    "isPopup": true,
-    "createdAt": "2025-08-22T10:54:16.547Z",
-    "updatedAt": "2025-08-22T10:54:16.967Z",
-    "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/images/banner/banner_banner_1755860055273_rt30qehcl_1755860055274_2bdjg.png",
-    "imagePath": "images/banner/banner_banner_1755860055273_rt30qehcl_1755860055274_2bdjg.png"
-  }
-]
+[]
