@@ -1,20 +1,5 @@
 [
   {
-    "id": "banner_1755808168448_43pxkq0k6",
-    "name": "헤더배너테스트",
-    "position": "header",
-    "link": "https://codepedia.kr",
-    "active": true,
-    "scheduled": false,
-    "startDate": null,
-    "endDate": null,
-    "isPopup": false,
-    "createdAt": "2025-08-21T20:29:28.570Z",
-    "updatedAt": "2025-08-21T20:29:28.448Z",
-    "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/images/banner/banner_banner_1755808166615_aihki1v38_1755808166622_avk64.png",
-    "imagePath": "images/banner/banner_banner_1755808166615_aihki1v38_1755808166622_avk64.png"
-  },
-  {
     "id": "banner_1755824551025_fr0ydfllt",
     "name": "좌측배너 테스트",
     "position": "left-vertical",
