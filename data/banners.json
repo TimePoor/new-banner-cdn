@@ -13,5 +13,20 @@
     "updatedAt": "2025-08-22T09:59:11.106Z",
     "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/images/banner/banner_banner_1755856747124_oja8f7zqd_1755856747125_8u81c.png",
     "imagePath": "images/banner/banner_banner_1755856747124_oja8f7zqd_1755856747125_8u81c.png"
+  },
+  {
+    "id": "banner_1755859999734_rbkm55ck2",
+    "name": "기사하단",
+    "position": "article-bottom",
+    "link": "https://codepedia.kr",
+    "active": true,
+    "scheduled": false,
+    "startDate": null,
+    "endDate": null,
+    "isPopup": false,
+    "createdAt": "2025-08-22T10:53:19.299Z",
+    "updatedAt": "2025-08-22T10:53:19.734Z",
+    "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/images/banner/banner_banner_1755859996405_lykfbddw2_1755859996406_wbxvg.png",
+    "imagePath": "images/banner/banner_banner_1755859996405_lykfbddw2_1755859996406_wbxvg.png"
   }
 ]
