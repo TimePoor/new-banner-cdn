@@ -2,7 +2,7 @@
   {
     "id": "banner_1756115429664_9v8xp3iyn",
     "name": "달코소미",
-    "position": "header",
+    "position": "popup",
     "link": "",
     "active": true,
     "scheduled": false,
@@ -10,7 +10,7 @@
     "endDate": null,
     "isPopup": false,
     "createdAt": "2025-08-25T09:50:30.286Z",
-    "updatedAt": "2025-08-25T09:50:29.664Z",
+    "updatedAt": "2025-08-25T09:56:22.797Z",
     "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/images/banner/banner_banner_1756115426595_ho7j0lqgo_1756115426651_4n86s.jpg",
     "imagePath": "images/banner/banner_banner_1756115426595_ho7j0lqgo_1756115426651_4n86s.jpg"
   }
