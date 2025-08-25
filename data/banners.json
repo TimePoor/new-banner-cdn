@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "banner_1756119401393_vvyrvf0ml",
+    "name": "1234",
+    "position": "popup",
+    "link": "",
+    "active": true,
+    "scheduled": false,
+    "startDate": null,
+    "endDate": null,
+    "isPopup": false,
+    "createdAt": "2025-08-25T10:56:41.012Z",
+    "updatedAt": "2025-08-25T10:56:41.393Z",
+    "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/images/banner/banner_banner_1756119397449_outlx2756_1756119397449_j4nce.png",
+    "imagePath": "images/banner/banner_banner_1756119397449_outlx2756_1756119397449_j4nce.png"
+  }
+]
