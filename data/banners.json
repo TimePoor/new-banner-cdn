@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "banner_1782546402151_96itj7qln",
+    "name": "이슈인사이드뉴스",
+    "position": "article-bottom",
+    "link": "",
+    "active": true,
+    "scheduled": false,
+    "startDate": null,
+    "endDate": null,
+    "isPopup": false,
+    "createdAt": "2026-06-27T07:46:42.763Z",
+    "updatedAt": "2026-06-27T07:46:42.150Z",
+    "imageUrl": "https://raw.githubusercontent.com/TimePoor/new-banner-cdn/main/images/banner/banner_banner_1782546396760_gtrs43zrk_1782546396855_pv517.png",
+    "imagePath": "images/banner/banner_banner_1782546396760_gtrs43zrk_1782546396855_pv517.png"
+  }
+]
